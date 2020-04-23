@@ -24,7 +24,7 @@ export default class LoadEarlier extends React.Component {
     }
     return (
       <View>
-        <Text style={[styles.text, this.props.textStyle, { opacity: 0 }]}>
+        <Text style={[styles.textOpaque, this.props.textStyle]}>
           {this.props.label}
         </Text>
         <ActivityIndicator
@@ -75,6 +75,12 @@ const styles = StyleSheet.create({
     backgroundColor: Color.backgroundTransparent,
     color: Color.white,
     fontSize: 12,
+  },
+  textOpaque: {
+    backgroundColor: Color.backgroundTransparent,
+    color: Color.white,
+    fontSize: 12,
+    opacity: 0
   },
   activityIndicator: {
     marginTop: 0,
