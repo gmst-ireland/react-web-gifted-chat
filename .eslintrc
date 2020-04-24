@@ -35,6 +35,7 @@
       "afterOpening": "never",
       "beforeClosing": "allow"
     },
+    "react-native/no-inline-styles": "off",
     "radix": 0,
     "react/prefer-stateless-function": 0,
     "no-plusplus": 0,

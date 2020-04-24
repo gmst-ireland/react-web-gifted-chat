@@ -1,5 +1,3 @@
-/* eslint react-native/no-inline-styles: 0 */
-
 import PropTypes from 'prop-types';
 import React from 'react';
 import { View, ViewPropTypes, StyleSheet } from 'react-native';

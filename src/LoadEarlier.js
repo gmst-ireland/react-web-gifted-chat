@@ -1,4 +1,4 @@
-/* eslint no-use-before-define: ["error", { "variables": false }], react-native/no-inline-styles: 0 */
+/* eslint no-use-before-define: ["error", { "variables": false }]*/
 
 import PropTypes from 'prop-types';
 import React from 'react';
