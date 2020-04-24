@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johniak/react-web-gifted-chat.git"
+    "url": "https://github.com/cathalLenihan95/react-web-gifted-chat.git"
   },
   "keywords": [
     "react",
@@ -17,9 +17,9 @@
   "author": "Jan Romaniak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johniak/react-web-gifted-chat/issues"
+    "url": "https://github.com/cathalLenihan95/react-web-gifted-chat/issues"
   },
-  "homepage": "https://github.com/johniak/react-web-gifted-chat#readme",
+  "homepage": "https://github.com/cathalLenihan95/react-web-gifted-chat#readme",
   "scripts": {
     "build": "react-scripts build",
     "lint": "eslint . --ext .js,.jsx",
