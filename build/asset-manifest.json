@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/johniak/react-web-gifted-chatstatic/js/main.93103138.chunk.js",
-    "main.js.map": "/johniak/react-web-gifted-chatstatic/js/main.93103138.chunk.js.map",
-    "runtime-main.js": "/johniak/react-web-gifted-chatstatic/js/runtime-main.eabe3bd9.js",
-    "runtime-main.js.map": "/johniak/react-web-gifted-chatstatic/js/runtime-main.eabe3bd9.js.map",
-    "static/css/2.9522b9fe.chunk.css": "/johniak/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css",
-    "static/js/2.b4b81356.chunk.js": "/johniak/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js",
-    "static/js/2.b4b81356.chunk.js.map": "/johniak/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.map",
-    "index.html": "/johniak/react-web-gifted-chatindex.html",
-    "precache-manifest.634e661b6e7c8914744ac5dfb084eac2.js": "/johniak/react-web-gifted-chatprecache-manifest.634e661b6e7c8914744ac5dfb084eac2.js",
-    "service-worker.js": "/johniak/react-web-gifted-chatservice-worker.js",
-    "static/css/2.9522b9fe.chunk.css.map": "/johniak/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css.map",
-    "static/js/2.b4b81356.chunk.js.LICENSE.txt": "/johniak/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.LICENSE.txt"
+    "main.js": "/cathalLenihan95/react-web-gifted-chatstatic/js/main.93103138.chunk.js",
+    "main.js.map": "/cathalLenihan95/react-web-gifted-chatstatic/js/main.93103138.chunk.js.map",
+    "runtime-main.js": "/cathalLenihan95/react-web-gifted-chatstatic/js/runtime-main.be065bdf.js",
+    "runtime-main.js.map": "/cathalLenihan95/react-web-gifted-chatstatic/js/runtime-main.be065bdf.js.map",
+    "static/css/2.9522b9fe.chunk.css": "/cathalLenihan95/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css",
+    "static/js/2.b4b81356.chunk.js": "/cathalLenihan95/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js",
+    "static/js/2.b4b81356.chunk.js.map": "/cathalLenihan95/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.map",
+    "index.html": "/cathalLenihan95/react-web-gifted-chatindex.html",
+    "precache-manifest.511520b2c40cc6c6c7338063aa98a062.js": "/cathalLenihan95/react-web-gifted-chatprecache-manifest.511520b2c40cc6c6c7338063aa98a062.js",
+    "service-worker.js": "/cathalLenihan95/react-web-gifted-chatservice-worker.js",
+    "static/css/2.9522b9fe.chunk.css.map": "/cathalLenihan95/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css.map",
+    "static/js/2.b4b81356.chunk.js.LICENSE.txt": "/cathalLenihan95/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eabe3bd9.js",
+    "static/js/runtime-main.be065bdf.js",
     "static/css/2.9522b9fe.chunk.css",
     "static/js/2.b4b81356.chunk.js",
     "static/js/main.93103138.chunk.js"
