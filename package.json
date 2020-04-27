@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cathalLenihan95/react-web-gifted-chat.git"
+    "url": "https://github.com/gmst-ireland/react-web-gifted-chat.git"
   },
   "keywords": [
     "react",
@@ -17,9 +17,9 @@
   "author": "Jan Romaniak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cathalLenihan95/react-web-gifted-chat/issues"
+    "url": "https://github.com/gmst-ireland/react-web-gifted-chat/issues"
   },
-  "homepage": "https://github.com/cathalLenihan95/react-web-gifted-chat#readme",
+  "homepage": "https://github.com/gmst-ireland/react-web-gifted-chat#readme",
   "scripts": {
     "build": "react-scripts build && set BABEL_ENV=production&& if exist dist RD /S /Q dist && mkdir dist && rollup -c -i src/index.js -o dist/index.js",
     "lint": "eslint . --ext .js,.jsx"

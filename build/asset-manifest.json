@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/cathalLenihan95/react-web-gifted-chatstatic/js/main.93103138.chunk.js",
-    "main.js.map": "/cathalLenihan95/react-web-gifted-chatstatic/js/main.93103138.chunk.js.map",
-    "runtime-main.js": "/cathalLenihan95/react-web-gifted-chatstatic/js/runtime-main.be065bdf.js",
-    "runtime-main.js.map": "/cathalLenihan95/react-web-gifted-chatstatic/js/runtime-main.be065bdf.js.map",
-    "static/css/2.9522b9fe.chunk.css": "/cathalLenihan95/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css",
-    "static/js/2.b4b81356.chunk.js": "/cathalLenihan95/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js",
-    "static/js/2.b4b81356.chunk.js.map": "/cathalLenihan95/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.map",
-    "index.html": "/cathalLenihan95/react-web-gifted-chatindex.html",
-    "precache-manifest.511520b2c40cc6c6c7338063aa98a062.js": "/cathalLenihan95/react-web-gifted-chatprecache-manifest.511520b2c40cc6c6c7338063aa98a062.js",
-    "service-worker.js": "/cathalLenihan95/react-web-gifted-chatservice-worker.js",
-    "static/css/2.9522b9fe.chunk.css.map": "/cathalLenihan95/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css.map",
-    "static/js/2.b4b81356.chunk.js.LICENSE.txt": "/cathalLenihan95/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.LICENSE.txt"
+    "main.js": "/gmst-ireland/react-web-gifted-chatstatic/js/main.31068eef.chunk.js",
+    "main.js.map": "/gmst-ireland/react-web-gifted-chatstatic/js/main.31068eef.chunk.js.map",
+    "runtime-main.js": "/gmst-ireland/react-web-gifted-chatstatic/js/runtime-main.7878921b.js",
+    "runtime-main.js.map": "/gmst-ireland/react-web-gifted-chatstatic/js/runtime-main.7878921b.js.map",
+    "static/css/2.9522b9fe.chunk.css": "/gmst-ireland/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css",
+    "static/js/2.b4b81356.chunk.js": "/gmst-ireland/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js",
+    "static/js/2.b4b81356.chunk.js.map": "/gmst-ireland/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.map",
+    "index.html": "/gmst-ireland/react-web-gifted-chatindex.html",
+    "precache-manifest.79cdc6fc5363c3419e6f1207efcadf40.js": "/gmst-ireland/react-web-gifted-chatprecache-manifest.79cdc6fc5363c3419e6f1207efcadf40.js",
+    "service-worker.js": "/gmst-ireland/react-web-gifted-chatservice-worker.js",
+    "static/css/2.9522b9fe.chunk.css.map": "/gmst-ireland/react-web-gifted-chatstatic/css/2.9522b9fe.chunk.css.map",
+    "static/js/2.b4b81356.chunk.js.LICENSE.txt": "/gmst-ireland/react-web-gifted-chatstatic/js/2.b4b81356.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.be065bdf.js",
+    "static/js/runtime-main.7878921b.js",
     "static/css/2.9522b9fe.chunk.css",
     "static/js/2.b4b81356.chunk.js",
-    "static/js/main.93103138.chunk.js"
+    "static/js/main.31068eef.chunk.js"
   ]
 }
